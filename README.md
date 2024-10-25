@@ -3,5 +3,7 @@
 ## Đây là kho bài giảng về deep learning 
 ## Nội dung của kho
 * Trong kho bao gồm 
-* Link video
-* Thư mục chứa code ngày từng buổi
+<ul>
+    <li> Link video bài giảng
+    <li> Source code từng buổi 
+</ul>
